@@ -1,3 +1,9 @@
+/*
+ Guilherme Sâo Marcos
+ RA: 0732011032
+ Exercicio: Conversão de Polegada para Milimetro
+*/
+
 #include <stdio.h>
 #include <unistd.h>
 
