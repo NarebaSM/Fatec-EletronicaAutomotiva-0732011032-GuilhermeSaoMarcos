@@ -1,3 +1,9 @@
+/*
+ Guilherme Sâo Marcos
+ RA: 0732011032
+ Exercicio: Resistencia do Resistor a partir de Tensão e Corrente
+*/
+
 #include <stdio.h>
 #include <unistd.h>
 
