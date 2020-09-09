@@ -1,3 +1,9 @@
+/*
+ Guilherme Sâo Marcos
+ RA: 0732011032
+ Exercicio: Conversor de Metros para Milimetros
+*/
+
 #include <stdio.h>
 
 int main(void) {
