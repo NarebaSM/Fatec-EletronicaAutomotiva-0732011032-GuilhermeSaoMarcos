@@ -1,3 +1,9 @@
+/*
+ Guilherme Sâo Marcos
+ RA: 0732011032
+ Exercicio: Conversor de velocidade, Km/h para m/s ou m/s para Km/h
+*/
+
 #include <stdio.h>
 #include <unistd.h>
 
