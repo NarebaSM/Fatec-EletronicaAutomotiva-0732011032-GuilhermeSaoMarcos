@@ -1,3 +1,9 @@
+/*
+ Guilherme Sâo Marcos
+ RA: 0732011032
+ Exercicio: Resistencia Equivalente em Paralelo ou Série
+ */
+
 #include <stdio.h>
 
 int main(void) {
