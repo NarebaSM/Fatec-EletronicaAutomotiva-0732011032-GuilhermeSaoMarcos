@@ -1,3 +1,9 @@
+/*
+ Guilherme Sâo Marcos
+ RA: 0732011032
+ Exercicio: Conversão de Numéro Decimal para Octal e Hexadecimal
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
