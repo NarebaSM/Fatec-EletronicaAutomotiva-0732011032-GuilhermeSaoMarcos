@@ -1,3 +1,9 @@
+/*
+ Guilherme Sâo Marcos
+ RA: 0732011032
+ Exercicio: Calculador da Area de um Retangulo
+*/
+
 #include <stdio.h>
 #include <unistd.h>
 
