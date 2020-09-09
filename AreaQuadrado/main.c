@@ -1,3 +1,9 @@
+/*
+ Guilherme Sâo Marcos
+ RA: 0732011032
+ Exercicio: Calculador da Area de um Quadrado
+*/
+
 #include <stdio.h>
 
 int main(void) {
