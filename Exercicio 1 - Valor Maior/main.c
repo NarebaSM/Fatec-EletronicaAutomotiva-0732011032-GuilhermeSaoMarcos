@@ -1,3 +1,9 @@
+/*
+ Guilherme Sâo Marcos
+ RA: 0732011032
+ Exercicio: Determinar entre dois numeros, o maior deles
+*/
+
 #include <stdio.h>
 
 float e_numero1, e_numero2;
