@@ -1,5 +1,5 @@
 /*
- Guilherme Sâo Marcos
+ Guilherme São Marcos
  RA: 0732011032
  Exercicio: Dado um numero qualquer, sera informado se o numero é divisivel por 2, 5, 10 ou se nao é divisivel por nenhum deles
 */
