@@ -1,5 +1,5 @@
 /*
- Guilherme Sâo Marcos
+ Guilherme São Marcos
  RA: 0732011032
  Exercicio: Determinar entre dois numeros, o maior deles
 */
