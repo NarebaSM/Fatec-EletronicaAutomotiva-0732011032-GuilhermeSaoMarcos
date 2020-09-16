@@ -1,3 +1,9 @@
+/*
+ Guilherme São Marcos
+ RA: 0732011032
+ Exercicio: Dado os 3 angulos do triangulo, será citado se ele é um triangulo Retangulo, Obtusângulo ou Acutângulo
+*/
+
 #include <stdio.h>
 
 float e_Angulo1, e_Angulo2, e_Angulo3;
