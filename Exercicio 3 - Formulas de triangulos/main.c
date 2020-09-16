@@ -1,3 +1,9 @@
+/*
+ Guilherme Sâo Marcos
+ RA: 0732011032
+ Exercicio: Dado os 3 lados do triangulo, será citado qual o formato dele, sendo Equilatero, Isóceles ou Escaleno
+*/
+
 #include <stdio.h>
 
 int e_Lado1, e_Lado2, e_Lado3;
