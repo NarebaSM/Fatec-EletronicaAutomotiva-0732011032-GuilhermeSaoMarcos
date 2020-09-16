@@ -1,5 +1,5 @@
 /*
- Guilherme Sâo Marcos
+ Guilherme São Marcos
  RA: 0732011032
  Exercicio: Dado tres valores distintos, serão colocados em ordem crescente
 */
