@@ -1,5 +1,5 @@
 /*
- Guilherme Sâo Marcos
+ Guilherme São Marcos
  RA: 0732011032
  Exercicio: Dado os 3 lados do triangulo, será informado se é um Triangulo Retangulo, Isóceles ou Escaleno
 */
