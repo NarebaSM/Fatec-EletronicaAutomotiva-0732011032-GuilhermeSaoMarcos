@@ -1,3 +1,9 @@
+/*
+ Guilherme Sâo Marcos
+ RA: 0732011032
+ Exercicio: Dado tres valores distintos, serão colocados em ordem crescente
+*/
+
 #include <stdio.h>
 
 int e_numero1, e_numero2, e_numero3; // A - e_numero1; B - e_numero2; C - e_numero3.
