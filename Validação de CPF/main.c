@@ -1,3 +1,9 @@
+/*
+ Guilherme São Marcos
+ RA: 0732011032
+ Exercicio: Dado o número do CPF separadamente do digito especial, será informado se o CPF é valido ou não
+*/
+
 #include <stdio.h>
 #include <string.h>
 #include <strings.h>
