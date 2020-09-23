@@ -1,3 +1,9 @@
+/*
+ Guilherme São Marcos
+ RA: 0732011032
+ Exercicio: Dado a velocidade maxima da via e a velocidade do carro, será calculado se o motorista terá punição e qual o tipo da punição
+*/
+
 #include <stdio.h>
 #include <unistd.h>
 
@@ -14,7 +20,7 @@ int main(void) {
   abaixo20 = (e_Veloc_Max_Via + (0.2 * e_Veloc_Max_Via));
   acima50 = (e_Veloc_Max_Via + (0.5 * e_Veloc_Max_Via));
 
-  sleep(5);
+  sleep(3);
 
   if(e_Veloc_Carro > acima50){
 
