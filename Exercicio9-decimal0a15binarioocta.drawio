@@ -1,1 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T21:35:00.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 OPR/71.0.3770.175" version="13.7.5" etag="ezfQVZijOMdcDxP7HvB6" type="github"><diagram id="Io7L_54eAidnnmvuXPCq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-29T03:20:48.960Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36 OPR/71.0.3770.175" etag="_doJP0isoKVmHDkDx48_" version="13.7.5" type="github">
+  <diagram id="Io7L_54eAidnnmvuXPCq" name="Page-1">
+    <mxGraphModel dx="1381" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lneWruVhvBUtBU1pDzUh-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lneWruVhvBUtBU1pDzUh-1" target="lneWruVhvBUtBU1pDzUh-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lneWruVhvBUtBU1pDzUh-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lneWruVhvBUtBU1pDzUh-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lneWruVhvBUtBU1pDzUh-2" target="lneWruVhvBUtBU1pDzUh-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lneWruVhvBUtBU1pDzUh-2" value="e_numero, e_select,&lt;br&gt;binario[4], i = 0, j" style="shape=internalStorage;whiteSpace=wrap;html=1;dx=15;dy=15;rounded=1;arcSize=8;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="323" y="150" width="182" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lneWruVhvBUtBU1pDzUh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lneWruVhvBUtBU1pDzUh-3" target="lneWruVhvBUtBU1pDzUh-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lneWruVhvBUtBU1pDzUh-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lneWruVhvBUtBU1pDzUh-3" target="lneWruVhvBUtBU1pDzUh-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lneWruVhvBUtBU1pDzUh-3" value="e_numero &amp;gt; 0 &amp;amp;&amp;amp;&lt;br&gt;e_numero &amp;lt; 15" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="630" width="208" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lneWruVhvBUtBU1pDzUh-4" value="e_select, e_numero" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="334" y="290" width="159" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lneWruVhvBUtBU1pDzUh-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lneWruVhvBUtBU1pDzUh-5" target="lneWruVhvBUtBU1pDzUh-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="154" y="890" />
+              <mxPoint x="423" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lneWruVhvBUtBU1pDzUh-5" value="Conversão por printf" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="69" y="740" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lneWruVhvBUtBU1pDzUh-6" value="Este número não esta dentro dos parametros&lt;br&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="589" y="750" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lneWruVhvBUtBU1pDzUh-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lneWruVhvBUtBU1pDzUh-9" target="lneWruVhvBUtBU1pDzUh-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lneWruVhvBUtBU1pDzUh-9" value="e_numero em Octa" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="342" y="970" width="161" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lneWruVhvBUtBU1pDzUh-11" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="363" y="1160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lneWruVhvBUtBU1pDzUh-17" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="301" y="420" width="226" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
